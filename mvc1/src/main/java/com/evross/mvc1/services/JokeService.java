@@ -24,7 +24,7 @@ public class JokeService {
         JokeResponse response = restTemplate.getForObject(url, JokeResponse.class);
         String output = "";
         if (response != null) {
-            //output = response.getValue().getJoke();
+            output = response.getValue().getJoke();
         }
         return output;
     }
