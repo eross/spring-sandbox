@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.hp.aa</groupId>
 	<artifactId>react1mvn</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1</version>
 	<name>react1mvn</name>
 	<description>Demo project for Spring Boot</description>
 
